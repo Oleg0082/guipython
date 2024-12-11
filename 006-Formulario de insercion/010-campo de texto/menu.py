@@ -18,7 +18,6 @@ def mostrarMenu(ventana):
         label="Archivo",
         menu=menu_archivo
         )
-    # Menu ayuda
     menu_ayuda = tk.Menu(
         barra_menu,
         tearoff=0
